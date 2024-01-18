@@ -629,7 +629,7 @@ button[class*="slider-button"]:active {
 
 .container-5 .categorias .select div{
   width: calc(100% / 5 - 3px);
-  height: 100%;
+  height: 100px;
   display: inline-block;
   overflow: hidden;
   border-radius: 10px;
